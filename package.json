@@ -1,0 +1,22 @@
+{
+    "name": "eslint-for-check",
+    "description": "",
+    "version": "1.0.0",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/yrx00go/eslint-for-check.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/yrx00go/eslint-for-check/issues"
+    },
+    "homepage": "https://github.com/yrx00go/eslint-for-check#readme",
+    "devDependencies": {
+        "@eslint/js": "latest",
+        "eslint": "latest",
+        "eslint-plugin-vue": "latest",
+        "eslint-config-airbnb-base": "^15.0.0",
+        "eslint-plugin-import": "^2.27.5"
+    }
+}
